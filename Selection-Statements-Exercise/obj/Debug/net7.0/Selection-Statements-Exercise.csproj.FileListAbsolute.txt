@@ -1,0 +1,5 @@
+/Users/loveall/Desktop/Repos/Selection-Statements-Exercise/Selection-Statements-Exercise/obj/Debug/net7.0/Selection-Statements-Exercise.csproj.AssemblyReference.cache
+/Users/loveall/Desktop/Repos/Selection-Statements-Exercise/Selection-Statements-Exercise/obj/Debug/net7.0/Selection-Statements-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loveall/Desktop/Repos/Selection-Statements-Exercise/Selection-Statements-Exercise/obj/Debug/net7.0/Selection-Statements-Exercise.AssemblyInfoInputs.cache
+/Users/loveall/Desktop/Repos/Selection-Statements-Exercise/Selection-Statements-Exercise/obj/Debug/net7.0/Selection-Statements-Exercise.AssemblyInfo.cs
+/Users/loveall/Desktop/Repos/Selection-Statements-Exercise/Selection-Statements-Exercise/obj/Debug/net7.0/Selection-Statements-Exercise.csproj.CoreCompileInputs.cache
